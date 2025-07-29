@@ -20,8 +20,7 @@ I'm comfortable across the full development spectrum:
 **🏠 [octoio.dev](https://octoio.dev)** - My main hub with portfolio, blog, and that interactive terminal you'll want to play with
 
 **📺 [YouTube](https://youtube.com/@octoio)** - Development devlogs and technical deep-dives  
-**💬 [Discord](https://discord.gg/octoio)** - Community discussions and project updates  
-**🐦 [Twitter](https://twitter.com/octoiodev)** - Quick updates and thoughts  
+**💬 [Discord](https://discord.gg/3FxWdFvKYU)** - Community discussions and project updates  
 
 ## 💭 Philosophy
 
